@@ -74,8 +74,8 @@ Me chamo Antônio Paulo Pinto Lima Silva, tenho 20 anos e sou natural da Bahia. 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="FLUTTER" 
+    title="FLUTTER"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
