@@ -99,14 +99,14 @@ Me chamo Antônio Paulo Pinto Lima Silva, tenho 20 anos e sou natural da Bahia. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=anttonio32&show_icons=true&theme=gruvbox&include_all_comits=true&local=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=anttonio32&show_icons=true&theme=onedark&include_all_comits=true&local=pt-br"
   /> 
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anttonio32&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anttonio32&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
