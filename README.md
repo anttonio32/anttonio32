@@ -70,7 +70,7 @@ Me chamo Antônio Paulo Pinto Lima Silva, tenho 20 anos e sou natural da Bahia. 
     title="FLET" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://flet.dev/img/logo.svg" 
 />
 <img 
     align="left" 
